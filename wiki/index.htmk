@@ -397,8 +397,6 @@ Error message and password prompt
 
 <li>Cardiac Order Set</li>
 
-<li>Draft of 'New Tiddler'</li>
-
 <li>Fontan Order Set</li>
 
 <li>Get Mom and Dad on AT&amp;T Plan</li>
@@ -9765,7 +9763,7 @@ To Do
 <div created="20191107212441483" modified="20191108103023818" title="$:/state/tab/sidebar--595412856">
 <pre>TableOfContents</pre>
 </div>
-<div created="20191108100305224" list="[[Set up Google WiFi]] [[Draft of 'New Tiddler']] [[Open Microwave]] [[To Do]] TableOfContents [[Raspberry Pi Flightradar24: Track Nearby Aircraft]] [[PiFi :Using your Raspberry Pi 3 as a Wifi Hotspot - Pratush Pandita - Medium]] [[Pi4 USB-C Gadget]] [[Name Change Information]] [[AT&amp;T Step By Step Guide esim]] [[AT&amp;T Multi Line Discount]] [[An always-available, online-capable Raspberry Pi in your pocket]] GettingStarted" modified="20191108155602767" title="$:/StoryList">
+<div created="20191108100305224" list="[[Set up Google WiFi]] [[Open Microwave]] [[To Do]] TableOfContents [[Raspberry Pi Flightradar24: Track Nearby Aircraft]] [[PiFi :Using your Raspberry Pi 3 as a Wifi Hotspot - Pratush Pandita - Medium]] [[Pi4 USB-C Gadget]] [[Name Change Information]] [[AT&amp;T Step By Step Guide esim]] [[AT&amp;T Multi Line Discount]] [[An always-available, online-capable Raspberry Pi in your pocket]] GettingStarted" modified="20191108155602767" title="$:/StoryList">
 <pre></pre>
 </div>
 <div plugin-type="info" title="$:/temp/info-plugin" type="application/json">
@@ -10919,9 +10917,6 @@ The second tier of protection is callcentric's own spam filtering. They use a se
 <div created="20191108154842312" modified="20191108154916906" tags="orderset task" title="Cardiac Order Set">
 <pre></pre>
 </div>
-<div created="20191108180828030" draft.of="New Tiddler" draft.title="New Tiddler" modified="20191108180828030" tags="" title="Draft of 'New Tiddler'">
-<pre></pre>
-</div>
 <div created="20191108153806902" modified="20191108153902429" tags="orderset task" title="Fontan Order Set">
 <pre></pre>
 </div>
@@ -11367,7 +11362,7 @@ sudo systemctl start hostapd&lt;/code&gt;&lt;/pre&gt;
 <div created="20191108153753168" modified="20191108153847797" tags="task [[Medical Licenses]]" title="Texas Medical License">
 <pre></pre>
 </div>
-<div created="20191108153339124" modified="20191108153433681" tags="" title="To Do">
+<div created="20191108153339124" modified="20191108180957429" tags="" title="To Do">
 <pre>! Outstanding tasks
 
 &lt;$list filter=&quot;[!has[draft.of]tag[task]!tag[done]sort[created]]&quot;&gt;

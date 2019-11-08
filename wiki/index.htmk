@@ -161,6 +161,8 @@ Error message and password prompt
 
 <li>$:/plugins/tiddlywiki/help</li>
 
+<li>$:/state/tab--1963855381</li>
+
 <li>$:/state/tab-1749438307</li>
 
 <li>$:/state/tab-2065006209</li>
@@ -366,6 +368,14 @@ Error message and password prompt
 <li>$:/themes/tiddlywiki/snowwhite</li>
 
 <li>$:/themes/tiddlywiki/vanilla</li>
+
+<li>$:/themes/tiddlywiki/vanilla/metrics/storyright</li>
+
+<li>$:/themes/tiddlywiki/vanilla/metrics/storywidth</li>
+
+<li>$:/themes/tiddlywiki/vanilla/metrics/tiddlerwidth</li>
+
+<li>$:/view</li>
 
 <li>An always-available, online-capable Raspberry Pi in your pocket</li>
 
@@ -9705,8 +9715,11 @@ Error message and password prompt
     }
 }</pre>
 </div>
-<div created="20191107212539156" modified="20191108100839251" title="$:/state/tab-1749438307">
-<pre>$:/core/ui/ControlPanel/Info</pre>
+<div created="20191108101018610" modified="20191108101034647" title="$:/state/tab--1963855381">
+<pre>$:/themes/tiddlywiki/vanilla/themetweaks</pre>
+</div>
+<div created="20191107212539156" modified="20191108101014473" title="$:/state/tab-1749438307">
+<pre>$:/core/ui/ControlPanel/Appearance</pre>
 </div>
 <div created="20191107212541392" modified="20191108100402696" title="$:/state/tab-2065006209">
 <pre>$:/core/ui/ControlPanel/Saving/General</pre>
@@ -9714,7 +9727,7 @@ Error message and password prompt
 <div created="20191107212441483" modified="20191107213054109" title="$:/state/tab/sidebar--595412856">
 <pre>TableOfContents</pre>
 </div>
-<div created="20191108100305224" list="$:/ControlPanel [[Updated Pi Zero Gadgets]] [[Turn a RaspBerryPi 3 into a WiFi router-hotspot]] TableOfContents [[Setting up a Raspberry Pi as a Wireless Access Point]] [[Raspberry Pi Flightradar24: Track Nearby Aircraft]] [[PiFi :Using your Raspberry Pi 3 as a Wifi Hotspot - Pratush Pandita - Medium]] [[Pi4 USB-C Gadget]] [[Name Change Information]] [[AT&amp;T Step By Step Guide esim]] [[AT&amp;T Multi Line Discount]] [[An always-available, online-capable Raspberry Pi in your pocket]] GettingStarted" modified="20191108100835310" title="$:/StoryList">
+<div created="20191108100305224" list="$:/ControlPanel [[Updated Pi Zero Gadgets]] [[Turn a RaspBerryPi 3 into a WiFi router-hotspot]] TableOfContents [[Setting up a Raspberry Pi as a Wireless Access Point]] [[Raspberry Pi Flightradar24: Track Nearby Aircraft]] [[PiFi :Using your Raspberry Pi 3 as a Wifi Hotspot - Pratush Pandita - Medium]] [[Pi4 USB-C Gadget]] [[Name Change Information]] [[AT&amp;T Step By Step Guide esim]] [[AT&amp;T Multi Line Discount]] [[An always-available, online-capable Raspberry Pi in your pocket]] GettingStarted" modified="20191108101001790" title="$:/StoryList">
 <pre></pre>
 </div>
 <div plugin-type="info" title="$:/temp/info-plugin" type="application/json">
@@ -10642,6 +10655,18 @@ This plugin also requires the JSZip plugin ([[$:/plugins/tiddlywiki/jszip]]) to 
         }
     }
 }</pre>
+</div>
+<div created="20191108101116016" modified="20191108101424998" title="$:/themes/tiddlywiki/vanilla/metrics/storyright">
+<pre>1000px</pre>
+</div>
+<div created="20191108101121711" modified="20191108101342682" title="$:/themes/tiddlywiki/vanilla/metrics/storywidth">
+<pre>1000px</pre>
+</div>
+<div created="20191108101128207" modified="20191108101412759" title="$:/themes/tiddlywiki/vanilla/metrics/tiddlerwidth">
+<pre>95%</pre>
+</div>
+<div created="20191108101022246" modified="20191108101024232" title="$:/view">
+<pre>classic</pre>
 </div>
 <div created="20191105100758578" creator="a50d5570-5e73-46ac-9c05-e44a81bd91a3-bluemix" modified="20191105101004866" modifier="a50d5570-5e73-46ac-9c05-e44a81bd91a3-bluemix" revision="2-a88915d97d894207998fcc54fa3c9406" tags="[[USB Gadget]] [[Raspberry Pi]]" title="An always-available, online-capable Raspberry Pi in your pocket" type="text/html">
 <pre> &lt;p&gt;These days, I’m building a lot of hardware projects based on the ubiquitous Raspberry Pi mini computer. Especially with the Raspberry Pi Zero W (an even tinier version, with the &lt;code class=&quot;highlighter-rouge&quot;&gt;W&lt;/code&gt; denoting the wifi-capable version), you can have one anywhere and can power it from any USB power source.&lt;/p&gt;

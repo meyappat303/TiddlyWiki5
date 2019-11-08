@@ -10870,11 +10870,12 @@ As soon as I completed Step 7, the AT&amp;T Prepaid service was instantly transf
 
 I hope this post will be useful to anyone who hasn't yet tried this. Good luck to everyone, and many thanks to this sub for all the info!</pre>
 </div>
-<div created="20191108153438539" modified="20191108162256468" tags="spam voip task" title="Callcentric Spam Caller Filtration">
-<pre># Once logged in to Callcentric.
-# Go to My Account in the upper right hand side
-# Open the tab labelled &quot;Call Treatments&quot;
-# Open the 'Create a New Call Treatment&quot;
+<div created="20191108153438539" modified="20191108162552235" tags="spam voip task" title="Callcentric Spam Caller Filtration">
+<pre>* Once logged in to Callcentric.
+* Go to My Account in the upper right hand side
+* Open the tab labelled &quot;Call Treatments&quot;
+* Open the 'Create a New Call Treatment&quot;
+
 
 # Leave the Time Alone
 # Under Redirect Calls: Select Either Simultaneous Ring or Hunting 
@@ -10893,6 +10894,8 @@ Called number: Any Number (this only applies if you have multiple phone numbers)
 Status is: Any
 Spam call probability: Medium and High. (My mobile phone numbers were labels as low...so a low probability with likely be overly sensitive).
 Telemarketer Block: This is the response that the caller will hear. I have selected Disabled - No message. This will drop the caller immediately.
+
+
 [img[Screen Shot 2019-11-08 at 8.53.36 AM.png]]  
  
 </pre>

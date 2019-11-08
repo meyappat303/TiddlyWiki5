@@ -145,6 +145,8 @@ Error message and password prompt
 
 <li>$:/core</li>
 
+<li>$:/DefaultTiddlers</li>
+
 <li>$:/GitHub/Filename</li>
 
 <li>$:/GitHub/Path</li>
@@ -9593,6 +9595,10 @@ Error message and password prompt
     }
 }</pre>
 </div>
+<div created="20191108100844136" modified="20191108100844136" title="$:/DefaultTiddlers">
+<pre>TableOfContents
+</pre>
+</div>
 <div created="20191107212611815" modified="20191107212615551" title="$:/GitHub/Filename">
 <pre>index.htmk</pre>
 </div>
@@ -9699,8 +9705,8 @@ Error message and password prompt
     }
 }</pre>
 </div>
-<div created="20191107212539156" modified="20191108100343494" title="$:/state/tab-1749438307">
-<pre>$:/core/ui/ControlPanel/Saving</pre>
+<div created="20191107212539156" modified="20191108100839251" title="$:/state/tab-1749438307">
+<pre>$:/core/ui/ControlPanel/Info</pre>
 </div>
 <div created="20191107212541392" modified="20191108100402696" title="$:/state/tab-2065006209">
 <pre>$:/core/ui/ControlPanel/Saving/General</pre>
@@ -9708,7 +9714,7 @@ Error message and password prompt
 <div created="20191107212441483" modified="20191107213054109" title="$:/state/tab/sidebar--595412856">
 <pre>TableOfContents</pre>
 </div>
-<div created="20191108100305224" list="[[Updated Pi Zero Gadgets]] [[Turn a RaspBerryPi 3 into a WiFi router-hotspot]] TableOfContents [[Setting up a Raspberry Pi as a Wireless Access Point]] [[Raspberry Pi Flightradar24: Track Nearby Aircraft]] [[PiFi :Using your Raspberry Pi 3 as a Wifi Hotspot - Pratush Pandita - Medium]] [[Pi4 USB-C Gadget]] [[Name Change Information]] [[AT&amp;T Step By Step Guide esim]] [[AT&amp;T Multi Line Discount]] [[An always-available, online-capable Raspberry Pi in your pocket]] GettingStarted" modified="20191108100336492" title="$:/StoryList">
+<div created="20191108100305224" list="$:/ControlPanel [[Updated Pi Zero Gadgets]] [[Turn a RaspBerryPi 3 into a WiFi router-hotspot]] TableOfContents [[Setting up a Raspberry Pi as a Wireless Access Point]] [[Raspberry Pi Flightradar24: Track Nearby Aircraft]] [[PiFi :Using your Raspberry Pi 3 as a Wifi Hotspot - Pratush Pandita - Medium]] [[Pi4 USB-C Gadget]] [[Name Change Information]] [[AT&amp;T Step By Step Guide esim]] [[AT&amp;T Multi Line Discount]] [[An always-available, online-capable Raspberry Pi in your pocket]] GettingStarted" modified="20191108100835310" title="$:/StoryList">
 <pre></pre>
 </div>
 <div plugin-type="info" title="$:/temp/info-plugin" type="application/json">

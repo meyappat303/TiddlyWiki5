@@ -389,6 +389,8 @@ Error message and password prompt
 
 <li>AT&amp;T Step By Step Guide esim</li>
 
+<li>Callcentric Spam Caller Filtration</li>
+
 <li>Name Change Information</li>
 
 <li>Pi4 USB-C Gadget</li>
@@ -9729,7 +9731,7 @@ Error message and password prompt
 <div created="20191107212441483" modified="20191108103023818" title="$:/state/tab/sidebar--595412856">
 <pre>TableOfContents</pre>
 </div>
-<div created="20191108100305224" list="[[To Do]] TableOfContents [[Raspberry Pi Flightradar24: Track Nearby Aircraft]] [[PiFi :Using your Raspberry Pi 3 as a Wifi Hotspot - Pratush Pandita - Medium]] [[Pi4 USB-C Gadget]] [[Name Change Information]] [[AT&amp;T Step By Step Guide esim]] [[AT&amp;T Multi Line Discount]] [[An always-available, online-capable Raspberry Pi in your pocket]] GettingStarted" modified="20191108152409489" title="$:/StoryList">
+<div created="20191108100305224" list="[[Callcentric Spam Caller Filtration]] [[To Do]] TableOfContents [[Raspberry Pi Flightradar24: Track Nearby Aircraft]] [[PiFi :Using your Raspberry Pi 3 as a Wifi Hotspot - Pratush Pandita - Medium]] [[Pi4 USB-C Gadget]] [[Name Change Information]] [[AT&amp;T Step By Step Guide esim]] [[AT&amp;T Multi Line Discount]] [[An always-available, online-capable Raspberry Pi in your pocket]] GettingStarted" modified="20191108152409489" title="$:/StoryList">
 <pre></pre>
 </div>
 <div plugin-type="info" title="$:/temp/info-plugin" type="application/json">
@@ -10844,6 +10846,9 @@ As soon as I completed Step 7, the AT&amp;T Prepaid service was instantly transf
 
 I hope this post will be useful to anyone who hasn't yet tried this. Good luck to everyone, and many thanks to this sub for all the info!</pre>
 </div>
+<div created="20191108153438539" modified="20191108153602901" tags="spam voip task" title="Callcentric Spam Caller Filtration">
+<pre></pre>
+</div>
 <div created="20191105083940643" creator="a50d5570-5e73-46ac-9c05-e44a81bd91a3-bluemix" modified="20191105190558620" modifier="a50d5570-5e73-46ac-9c05-e44a81bd91a3-bluemix" revision="8-707c4d32f98642b0045c750518b4841c" tags="[[Medical Licenses]] [[Name Change]]" title="Name Change Information" type="text/vnd.tiddlywiki">
 <pre>''New York State:''
 
@@ -11256,7 +11261,7 @@ sudo systemctl start hostapd&lt;/code&gt;&lt;/pre&gt;
 <div caption="Contents" created="20191105090430217" creator="a50d5570-5e73-46ac-9c05-e44a81bd91a3-bluemix" list-after="$:/core/ui/SideBar/Open" modified="20191105091259930" modifier="a50d5570-5e73-46ac-9c05-e44a81bd91a3-bluemix" revision="3-d0c7d49d79b549f84aebebc9f460aeb4" tags="$:/tags/SideBar" title="TableOfContents" type="text/vnd.tiddlywiki">
 <pre>&lt;$list filter={{$:/core/Filters/AllTiddlers!!filter}} template=&quot;$:/core/ui/ListItemTemplate&quot;/&gt;</pre>
 </div>
-<div created="20191108153339124" modified="20191108153407547" tags="" title="To Do">
+<div created="20191108153339124" modified="20191108153433681" tags="" title="To Do">
 <pre>! Outstanding tasks
 
 &lt;$list filter=&quot;[!has[draft.of]tag[task]!tag[done]sort[created]]&quot;&gt;

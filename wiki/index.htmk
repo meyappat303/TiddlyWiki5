@@ -145,6 +145,8 @@ Error message and password prompt
 
 <li>$:/config/ShowHelp</li>
 
+<li>$:/ControlPanel</li>
+
 <li>$:/core</li>
 
 <li>$:/DefaultTiddlers</li>
@@ -454,6 +456,12 @@ Error message and password prompt
 </div>
 <div created="20191108100330099" modified="20191108100334537" title="$:/config/ShowHelp">
 <pre>no</pre>
+</div>
+<div color="#bbb" created="20191108181714314" icon="$:/core/images/options-button" modified="20191108181714314" title="$:/ControlPanel">
+<pre>&lt;div class=&quot;tc-control-panel&quot;&gt;
+&lt;&lt;tabs &quot;[all[shadows+tiddlers]tag[$:/tags/ControlPanel]!has[draft.of]]&quot; &quot;$:/core/ui/ControlPanel/Info&quot;&gt;&gt;
+&lt;/div&gt;
+</pre>
 </div>
 <div author="JeremyRuston" core-version="&gt;=5.0.0" dependents="" description="TiddlyWiki5 core" list="readme" plugin-priority="0" plugin-type="plugin" title="$:/core" type="application/json" version="5.1.21">
 <pre>{
@@ -9648,9 +9656,9 @@ Error message and password prompt
     }
 }</pre>
 </div>
-<div created="20191108100844136" modified="20191108154937022" title="$:/DefaultTiddlers">
+<div created="20191108100844136" modified="20191108181659816" title="$:/DefaultTiddlers">
 <pre>TableOfContents
-To Do
+[To Do]
 </pre>
 </div>
 <div created="20191107212611815" modified="20191107212615551" title="$:/GitHub/Filename">
@@ -9754,8 +9762,8 @@ To Do
 <div created="20191108101018610" modified="20191108101034647" title="$:/state/tab--1963855381">
 <pre>$:/themes/tiddlywiki/vanilla/themetweaks</pre>
 </div>
-<div created="20191107212539156" modified="20191108154944027" title="$:/state/tab-1749438307">
-<pre>$:/core/ui/ControlPanel/Plugins</pre>
+<div created="20191107212539156" modified="20191108181640766" title="$:/state/tab-1749438307">
+<pre>$:/core/ui/ControlPanel/Info</pre>
 </div>
 <div created="20191107212541392" modified="20191108100402696" title="$:/state/tab-2065006209">
 <pre>$:/core/ui/ControlPanel/Saving/General</pre>
@@ -9763,7 +9771,7 @@ To Do
 <div created="20191107212441483" modified="20191108103023818" title="$:/state/tab/sidebar--595412856">
 <pre>TableOfContents</pre>
 </div>
-<div list="TableOfContents To Do" title="$:/StoryList">
+<div created="20191108181638141" list="$:/ControlPanel TableOfContents To Do" modified="20191108181638141" title="$:/StoryList">
 <pre></pre>
 </div>
 <div plugin-type="info" title="$:/temp/info-plugin" type="application/json">

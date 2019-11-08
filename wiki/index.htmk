@@ -9759,7 +9759,7 @@ To Do
 <div created="20191107212441483" modified="20191108103023818" title="$:/state/tab/sidebar--595412856">
 <pre>TableOfContents</pre>
 </div>
-<div created="20191108100305224" list="[[November Hours]] [[Callcentric Spam Caller Filtration]] [[To Do]] TableOfContents [[Raspberry Pi Flightradar24: Track Nearby Aircraft]] [[PiFi :Using your Raspberry Pi 3 as a Wifi Hotspot - Pratush Pandita - Medium]] [[Pi4 USB-C Gadget]] [[Name Change Information]] [[AT&amp;T Step By Step Guide esim]] [[AT&amp;T Multi Line Discount]] [[An always-available, online-capable Raspberry Pi in your pocket]] GettingStarted" modified="20191108155602767" title="$:/StoryList">
+<div created="20191108100305224" list="[[To Do]] TableOfContents [[Raspberry Pi Flightradar24: Track Nearby Aircraft]] [[PiFi :Using your Raspberry Pi 3 as a Wifi Hotspot - Pratush Pandita - Medium]] [[Pi4 USB-C Gadget]] [[Name Change Information]] [[AT&amp;T Step By Step Guide esim]] [[AT&amp;T Multi Line Discount]] [[An always-available, online-capable Raspberry Pi in your pocket]] GettingStarted" modified="20191108155602767" title="$:/StoryList">
 <pre></pre>
 </div>
 <div plugin-type="info" title="$:/temp/info-plugin" type="application/json">
@@ -11015,7 +11015,7 @@ Please include a telephone number and/or email address so we may contact you wit
 <div created="20191108153716922" modified="20191108153745297" tags="[[Medical Licenses]] task" title="NY State Lincense">
 <pre></pre>
 </div>
-<div created="20191108153610812" modified="20191108153626113" tags="task" title="Paycheck">
+<div created="20191108153610812" modified="20191108165223469" tags="task done" title="Paycheck">
 <pre></pre>
 </div>
 <div created="20191105102158007" creator="a50d5570-5e73-46ac-9c05-e44a81bd91a3-bluemix" modified="20191105102621903" modifier="a50d5570-5e73-46ac-9c05-e44a81bd91a3-bluemix" revision="2-387462757e5045dbc922bbc64b1ac536" tags="dnsmasq [[USB Gadget]] [[Raspberry Pi]]" title="Pi4 USB-C Gadget" type="text/html">
@@ -11346,7 +11346,7 @@ sudo systemctl start hostapd&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;The &lt;code&gt;wlan0&lt;/code&gt; and &lt;code&gt;eth0&lt;/code&gt; no longer have IP addresses, as they are now controlled by the bridge. It is possible to use a static IP address for the bridge if required, but generally, if the Raspberry Pi access point is connected to an ADSL router, the DHCP address will be fine.&lt;/p&gt;&lt;/article&gt;
 </pre>
 </div>
-<div caption="Contents" created="20191105090430217" creator="a50d5570-5e73-46ac-9c05-e44a81bd91a3-bluemix" list-after="$:/core/ui/SideBar/Open" modified="20191105091259930" modifier="a50d5570-5e73-46ac-9c05-e44a81bd91a3-bluemix" revision="3-d0c7d49d79b549f84aebebc9f460aeb4" tags="$:/tags/SideBar" title="TableOfContents" type="text/vnd.tiddlywiki">
+<div caption="Contents" created="20191105090430217" creator="a50d5570-5e73-46ac-9c05-e44a81bd91a3-bluemix" list-after="$:/core/ui/SideBar/Open" modified="20191108165824049" modifier="a50d5570-5e73-46ac-9c05-e44a81bd91a3-bluemix" revision="3-d0c7d49d79b549f84aebebc9f460aeb4" tags="$:/tags/SideBar" title="TableOfContents" type="text/vnd.tiddlywiki">
 <pre>&lt;$list filter={{$:/core/Filters/AllTiddlers!!filter}} template=&quot;$:/core/ui/ListItemTemplate&quot;/&gt;</pre>
 </div>
 <div created="20191108153753168" modified="20191108153847797" tags="task [[Medical Licenses]]" title="Texas Medical License">

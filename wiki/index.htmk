@@ -10875,7 +10875,7 @@ As soon as I completed Step 7, the AT&amp;T Prepaid service was instantly transf
 
 I hope this post will be useful to anyone who hasn't yet tried this. Good luck to everyone, and many thanks to this sub for all the info!</pre>
 </div>
-<div created="20191108153438539" modified="20191108162859642" tags="spam voip task" title="Callcentric Spam Caller Filtration">
+<div created="20191108153438539" modified="20191108163102304" tags="spam voip task" title="Callcentric Spam Caller Filtration">
 <pre>!! To set up Spam Filtration I have done the following
 
 * Once logged in to Callcentric.
@@ -10891,9 +10891,9 @@ I hope this post will be useful to anyone who hasn't yet tried this. Good luck t
 # Leave all others entries blank (except the last)
 # By the red cycle. I have set my to go to a Busy Tone.
 # Under comment - Name this &quot;NOMOROBO'
-I have personally selected simultaneous ring, hunting will work just as well. The way nomorobo works is that it picks up before the person in the home physically can.
-I have registered my phone number with nomorobo, but I am unclear if that is necessary.
-It should look like the following
+I have personally selected simultaneous ring, hunting will work just as well. The way nomorobo works is that it picks up before the person in the home physically can.I have registered my phone number with nomorobo, but I am unclear if that is necessary. There is a minimal cost to each each outgoing call that is picked up. I honestly don't notice the cost on my bill
+
+It should look like the following:
 [img[Screen Shot 2019-11-08 at 8.53.09 AM.png]]
 The second tier of protection is callcentric's own spam filtering. They use a service called Truecaller which characterized the Spam call probability in to low, moderate, medium or high. The callcentric options are also located right hand panel of &quot;Call Treatments&quot;.  I have selected the following options:
 *  Call coming from Caller ID - Any Number

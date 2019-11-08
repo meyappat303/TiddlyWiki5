@@ -10875,7 +10875,7 @@ As soon as I completed Step 7, the AT&amp;T Prepaid service was instantly transf
 
 I hope this post will be useful to anyone who hasn't yet tried this. Good luck to everyone, and many thanks to this sub for all the info!</pre>
 </div>
-<div created="20191108153438539" modified="20191108163102304" tags="spam voip task" title="Callcentric Spam Caller Filtration">
+<div created="20191108153438539" modified="20191108163222570" tags="spam voip task" title="Callcentric Spam Caller Filtration">
 <pre>!! To set up Spam Filtration I have done the following
 
 * Once logged in to Callcentric.
@@ -10896,11 +10896,12 @@ I have personally selected simultaneous ring, hunting will work just as well. Th
 It should look like the following:
 [img[Screen Shot 2019-11-08 at 8.53.09 AM.png]]
 The second tier of protection is callcentric's own spam filtering. They use a service called Truecaller which characterized the Spam call probability in to low, moderate, medium or high. The callcentric options are also located right hand panel of &quot;Call Treatments&quot;.  I have selected the following options:
+
 *  Call coming from Caller ID - Any Number
-*  Called number: Any Number (this only applies if you have multiple phone numbers).
+*  Called number: Any Number (this only applies if you have multiple phone numbers with callcentric).
 *  Status is: Any
 *  Spam call probability: Medium and High. (My mobile phone numbers were labels as low...so a low probability with likely be overly sensitive).
-Telemarketer Block: This is the response that the caller will hear. I have selected Disabled - No message. This will drop the caller immediately.
+*Telemarketer Block: This is the response that the caller will hear. I have selected Disabled - No message. This will drop the caller immediately.
 
 
 [img[Screen Shot 2019-11-08 at 8.53.36 AM.png]]  
